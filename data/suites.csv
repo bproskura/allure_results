@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Aug 05 19:13:30 GMT 2024","Mon Aug 05 19:13:35 GMT 2024","4970","tests.auth","Authorization","TestLogin","","","Authorization with valid data",""
