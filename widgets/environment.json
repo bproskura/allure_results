@@ -1,1 +1,1 @@
-[]
+[{"values":["Darkbot QA Tests"],"name":"DESCRIPTION"},{"values":["https://dev.app.darkbot.io/"],"name":"BASE_URL"},{"values":["https://dev.api.darkbot.io/"],"name":"BASE_API_URL"},{"values":["chrome"],"name":"BROWSER"}]
