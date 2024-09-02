@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Sep 02 19:43:33 GMT 2024","Mon Sep 02 19:43:40 GMT 2024","7888","tests.auth","Authorization","TestLogin","","","Authorization with invalid credentials",""
+"passed","Mon Sep 02 19:43:14 GMT 2024","Mon Sep 02 19:43:30 GMT 2024","15796","tests.auth","Authorization","TestLogin","","","Authorization with valid data",""
+"passed","Mon Sep 02 19:43:41 GMT 2024","Mon Sep 02 19:43:51 GMT 2024","10781","tests.auth","Authorization","TestLogin","","","Authorization with invalid credentials",""
+"passed","Mon Sep 02 19:43:30 GMT 2024","Mon Sep 02 19:43:32 GMT 2024","2016","tests.auth","Authorization","TestLogin","","","Authorization with empty fields",""
