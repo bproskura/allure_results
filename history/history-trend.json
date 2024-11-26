@@ -1,1 +1,1 @@
-[{"data":{"failed":0,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":0}}]
+[{"buildOrder":547,"reportUrl":"https://darkbot-io.github.io/qa-website/547/","reportName":"Allure Report with history","data":{"failed":1,"broken":3,"skipped":3,"passed":37,"unknown":0,"total":44}},{"data":{"failed":0,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":0}}]
