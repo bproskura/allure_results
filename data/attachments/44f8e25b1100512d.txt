@@ -1,0 +1,6 @@
+DEBUG    urllib3.connectionpool:connectionpool.py:1051 Starting new HTTPS connection (1): dev.api.darkbot.io:443
+DEBUG    urllib3.connectionpool:connectionpool.py:546 https://dev.api.darkbot.io:443 "POST /auth/login HTTP/11" 200 None
+DEBUG    urllib3.connectionpool:connectionpool.py:1051 Starting new HTTPS connection (1): dev.api.darkbot.io:443
+DEBUG    urllib3.connectionpool:connectionpool.py:546 https://dev.api.darkbot.io:443 "POST /auth/login HTTP/11" 200 None
+DEBUG    urllib3.connectionpool:connectionpool.py:546 https://dev.api.darkbot.io:443 "POST /auth/login HTTP/11" 200 None
+DEBUG    urllib3.connectionpool:connectionpool.py:546 https://dev.api.darkbot.io:443 "DELETE /app/bots/bea0dce2-fb61-4a86-a62b-e673d227aa60 HTTP/11" 200 None
