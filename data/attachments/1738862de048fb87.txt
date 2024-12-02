@@ -1,8 +1,0 @@
-DEBUG    urllib3.connectionpool:connectionpool.py:1051 Starting new HTTPS connection (1): dev.api.darkbot.io:443
-DEBUG    urllib3.connectionpool:connectionpool.py:546 https://dev.api.darkbot.io:443 "POST /auth/login HTTP/11" 200 None
-DEBUG    urllib3.connectionpool:connectionpool.py:546 https://dev.api.darkbot.io:443 "GET /app/deals?filter%5Bstatus%5D%5Bin%5D%5B0%5D=ready&sort%5Border%5D=DESC&sort%5Bby%5D=createdAt HTTP/11" 200 None
-DEBUG    urllib3.connectionpool:connectionpool.py:546 https://dev.api.darkbot.io:443 "GET /app/exchanges/poloniex/markets/WIN-TRX/information HTTP/11" 200 None
-DEBUG    urllib3.connectionpool:connectionpool.py:1051 Starting new HTTPS connection (1): dev.api.darkbot.io:443
-DEBUG    urllib3.connectionpool:connectionpool.py:546 https://dev.api.darkbot.io:443 "POST /auth/login HTTP/11" 200 None
-DEBUG    urllib3.connectionpool:connectionpool.py:546 https://dev.api.darkbot.io:443 "POST /auth/login HTTP/11" 200 None
-DEBUG    urllib3.connectionpool:connectionpool.py:546 https://dev.api.darkbot.io:443 "GET /app/deals/7468a5ab-2c29-41e8-9db5-2de5e7de52a8 HTTP/11" 200 None
