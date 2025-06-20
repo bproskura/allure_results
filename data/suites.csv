@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"failed","Fri Jun 20 09:20:10 GMT 2025","Fri Jun 20 09:20:11 GMT 2025","1479","tests.auth","Authorization","TestLogin","","","Authorization with empty fields",""
+"failed","Fri Jun 20 09:24:35 GMT 2025","Fri Jun 20 09:24:37 GMT 2025","1510","tests.auth","Authorization","TestLogin","","","Authorization with empty fields",""
